@@ -8,7 +8,7 @@
 
 ## Demo:
 #### Search suggestion: 
-![](searchSuggestion.gif)
+![](img/searchSuggestion.gif)
 <img src="img/searchSuggestion.gif" width=500>
  
 #### Add comments to the database: 
