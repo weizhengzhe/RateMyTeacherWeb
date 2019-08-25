@@ -8,13 +8,12 @@
 
 ## Demo:
 #### Search suggestion: 
-![Farmers Market Finder Demo](img/searchSuggestion.GIF)
+![Search suggestion Demo](img/searchSuggestion.GIF)
 
-
-
-<img src="img/searchSuggestion.gif" width=500>
  
 #### Add comments to the database: 
-<img src="img/addComment.gif" width=500>
+![Database Demo](img/addComment.GIF)
+
+
 
  
