@@ -1,0 +1,85 @@
+h1 {
+	background:pink ;
+	padding: 10px ;
+	font-size: 40pt; 
+	border-radius: 30px ;
+	width:15%;
+	display:inline;
+	margin:10px;
+
+}
+
+ul{
+     display:inline;
+     
+
+}
+li{
+	color: white;
+	font-size: 20pt;
+
+	background: green;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 20px;
+	margin:2%;
+
+
+}
+
+.forumBox{
+
+	background-color: gray;
+	padding: 10px;
+}
+
+body{
+	color: white;
+	background-image: url("02.JPG");
+
+   }
+
+   p{
+
+   	color:black;
+   	font-size: 16pt;
+
+   }
+
+Label{
+   background:gray ;
+	padding: 3px ;
+	font-size: 14pt; 
+	border-radius: 15px ;
+	width:5%;
+    border-bottom:10px  ;
+}
+
+textarea{
+
+margin-top:5px;
+}
+
+
+.firstBox{
+    background-color: gray;
+    padding: 10px;
+    margin: 10px;
+}
+
+.secondBox{
+	background-color: pink;
+	padding:10px;
+ 	margin:10px;
+ }
+
+ .thirdBox{
+    background-color: blue;
+	padding:10px;
+ 	margin:10px;
+
+ }
+.imaBox{
+    border-radius: 20px;
+
+}
