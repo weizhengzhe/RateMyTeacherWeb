@@ -8,7 +8,7 @@
 
 ## Demo:
 #### Search suggestion: 
-![Farmers Market Finder Demo](img/searchSuggestion.gif)
+![Farmers Market Finder Demo](img/searchSuggestion.GIF)
 
 
 
